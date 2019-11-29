@@ -1,0 +1,7 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+# @see https://github.com/alexkaratarakis/gitattributes
+# @see https://git-scm.com/docs/gitattributes
+* text=auto
+
+*.dic  text
+*.md   text
