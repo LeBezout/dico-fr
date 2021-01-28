@@ -4,17 +4,17 @@
 
 ## Configuration pour IntelliJ
 
-Pour configurer le dictionnaire français faire :
+:bulb: Ne pas utiliser, utiliser le plugin natif [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/).
+
+A défaut pour configurer le dictionnaire français faire :
 
 * Afficher les _Settings_ via le menu _File_
 * Naviguer dans _Editor > Spelling_
 * Dans _Dictionaries_ > _Custom dictionaries_ ajouter le fichier `fr_FR.dic`
 
-:bulb: Pour IntelliJ il est préférable d'utiliser désormais le plugin natif [Grazie](https://plugins.jetbrains.com/plugin/12175-grazie/).
-
 ## Configuration pour Eclipse
 
-Pour configurer le dictionnaire français faire :
+:bulb: Pour configurer le dictionnaire français faire :
 
 * Ouvrir "Window > Preferences"
 * Taper _spelling_ dans la recherche pour accéder à "General > Editors > Text Editors > Spelling"
@@ -24,7 +24,7 @@ Pour configurer le dictionnaire français faire :
 
 ## Configuration pour VS Code
 
-:bulb: Utiliser les plugins :
+:bulb: Ne pas utiliser, utiliser les plugins :
 
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 * [French - Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-french)
